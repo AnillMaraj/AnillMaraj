@@ -1,7 +1,7 @@
 ![Anill Louis Maraj](https://user-images.githubusercontent.com/103867764/164181573-69609d31-9091-4836-aa62-ce34603d85ac.png)
 
 
-## [Anill Louis Maraj](https://anillmaraj.github.io) | Web Designer & Dveloper
+## [Anill Louis Maraj](https://anillmaraj.github.io) | Web Designer & Developer
 ### [GitHub Profile](https://github.com/AnillMaraj)
 
 Hi my name is Anill Maraj, I'm interested in Web Development and Machine Learning. I come from a small Caribbean island
