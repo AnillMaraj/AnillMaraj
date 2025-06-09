@@ -1,4 +1,4 @@
-﻿name: Generate Snake Animation
+﻿name: Generate GitHub Profile Animation
 
 on:
   schedule: # execute every 12 hours
