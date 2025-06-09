@@ -1,4 +1,4 @@
-﻿name: Generate pacman animation
+﻿name: Pacman GitHub Profile Animation
 
 on:
   schedule: # execute every 12 hours
