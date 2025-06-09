@@ -1,5 +1,5 @@
 ﻿name: Generate GitHub Profile Snake Animation
-
+# GitHub Action for Generating Profile Snake Animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
